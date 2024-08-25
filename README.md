@@ -9,7 +9,7 @@
 
   ## Screenshots  
 
-  ![App Screenshot](![App Screenshot](./client/src/assets/screenshot.png))
+  ![App Screenshot](./client/src/assets/screenshot.png)
 
 
   ## Overview
