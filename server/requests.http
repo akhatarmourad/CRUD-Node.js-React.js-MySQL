@@ -1,0 +1,17 @@
+GET http://localhost:5000/students
+
+###
+
+GET http://localhost:5000/students//AM24001
+
+###
+
+POST http://localhost:5000/students
+Content-Type: application/json
+
+{
+        "id": "FN202308",
+        "fullname": "Fatima Naciri",
+        "email": "naciri.fatima@gmail.com",
+        "password": "naciri.fatima@123"
+    }
