@@ -11,7 +11,7 @@
 
   ![App Screenshot](./client/src/assets/screenshot.png)
   ![App Screenshot](./client/src/assets/add_student.png)
-  ![App Screenshot](./client/src/assets/CRUD.png)
+  
 
 
   ## Overview
