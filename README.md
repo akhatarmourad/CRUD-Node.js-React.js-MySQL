@@ -15,7 +15,7 @@
 
 
   ## Overview
-  This project is a simple CRUD (Create, Read, Update, Delete) application built using Node.js, Express for the backend, React with Tailwind CSS for the frontend, and MySQL for the database. The application allows users to perform basic operations on a MySQL database through a user-friendly interface.
+  This project is a simple CRUD (Create, Read, Update, Delete) application built using Node.js, Express for the backend, React with Tailwind CSS for the frontend, and MySQL for the database (MySQL Workbench or Xampp & PhpMyAdmin). The application allows users to perform basic operations on a MySQL database through a user-friendly interface.
 
    ## Tech Stack  
 
