@@ -1,5 +1,6 @@
 
-  # Students CRUD System 📝  
+  # Students CRUD System 📝
+  ![Node JS & React JS CRUD](./client/src/assets/project-banner.png)
   # Table of contents  
   1. Overview 
   2. Tech Stack  
@@ -55,4 +56,4 @@
   ## Contact
   If you have any questions or need further assistance, feel free to contact me via email at [mourad.akhatar01@gmail.com](mailto:mourad.akhatar01@gmail.com). 
 
-  You can also connect with me on [LinkedIn](https://www.linkedin.com/in/akhatarmourad/) where I share useful information about web development, coding tips, and more.# CRUD-Node.js-React.js-MySQL
+  You can also connect with me on [LinkedIn](https://www.linkedin.com/in/akhatarmourad/) where I share useful information about web development, coding tips, and more.
